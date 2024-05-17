@@ -2,7 +2,7 @@
 
 I am a passionate BSc. CSIT student driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![nikhillamsal1's Stats](https://github-readme-stats.vercel.app/api?username=nikhillamsal1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![nikhillamsal1's Stats](https://github-readme-stats.vercel.app/api?username=nikhillamsal1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ## 🚀 About Me
 
